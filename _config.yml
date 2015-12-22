@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Tra la la la..."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/static.png"
+me-img: "/img/static.gif"
 
 ################
 # Web app mode #
