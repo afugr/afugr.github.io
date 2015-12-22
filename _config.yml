@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/static.gif"
+background-img: "../img/stillstatic.jpg"
 
 ##############################
 # Dynamic Text on the Header #
