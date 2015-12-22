@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "afugr"
+title: "{ afugr }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/stillstatic.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Tra la la la..."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/static.png"
 
 ################
 # Web app mode #
