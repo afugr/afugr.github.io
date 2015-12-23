@@ -2,9 +2,16 @@
  <!-- Footer Start -->
 
 <footer>
-    <div class="container text-center">
-       <span class="intro-text">{{ content }}</span>
-            <h5>&nbsp;</h5>
+   dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Tra la la la..."
+  - text: "Where’s your will to be weird?"
       <p>Copyright &copy; {{ site.author }} {{ site.time | date: "%Y" }}</p>
     </div>
 </footer>
